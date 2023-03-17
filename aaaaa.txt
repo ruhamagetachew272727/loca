@@ -1,8 +1,14 @@
-hi bruk xapa
+biruk loka feta bel man
 
+<<<<<<< HEAD
 new brach i crattreed
 
 
 zzzzzzzzzzzzzzzzzzzzz
 
 444444444444444444444444
+=======
+vvvvvvvvvvvvvvvvvvvvvv
+vvvvvvvvvvvvvvvvvvvvv
+vvvvvvvvvvvvvvvvvvvvvv
+>>>>>>> 4bbf008c51a73d667982e193d6addb1c511c667c
