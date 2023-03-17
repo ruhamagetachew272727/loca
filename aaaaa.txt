@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 biruk loka feta bel man
 
 <<<<<<< HEAD
@@ -12,3 +13,8 @@ vvvvvvvvvvvvvvvvvvvvvv
 vvvvvvvvvvvvvvvvvvvvv
 vvvvvvvvvvvvvvvvvvvvvv
 >>>>>>> 4bbf008c51a73d667982e193d6addb1c511c667c
+=======
+============================
+==========================
+=============================
+>>>>>>> a75167da67ae67c17723be6681ca5ee3945143d4
